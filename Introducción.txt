@@ -1,0 +1,19 @@
+Calidad de Datos ( Data Quality )
+	Data Monitoring
+	Data Correction
+	Data Profiling -> Analisis de los campos de la Base de datos (Datos, Nulos, etc), Analisis de Grandes cantidades de datos.
+
+		* Analisis de Exaustividad.
+		* Analisis de Patrones.
+
+
+Data WareHouse :
+
+	Modelos de DW:
+		* Estrella ( Facil de Implementar, Facil de Llenar con ETL)
+		* Copo de Nieve ( Optimo para el análisis )
+		* Galaxia ( Varias Tablas de Hechos)
+	Principal diferencia :
+		Copo Nieve vs Estrella  -> No ahí mucha redundacia de datos en el modelo Copo nieve.
+
+	
